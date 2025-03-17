@@ -24,7 +24,7 @@
 
 - marineska4427@gmail.com
 
-- [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/marineska_mi)
+- [![Telegram](https://img.icons8.com/?size=100&id=pQxnPIlaBeFy&format=png&color=000000)](https://t.me/marineska_mi)
 
 
 <!--
