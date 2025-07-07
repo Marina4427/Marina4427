@@ -13,9 +13,9 @@
 
 ### ⚒️ Languages and tools
 
+- Владение фреймворком React.
 - Умение верстать (HTML, CSS). 
 - Владение JavaScript. 
-- Владение фреймворком React.
 - Знание классических структур данных. 
 - Webpack.
 - GitHub.
